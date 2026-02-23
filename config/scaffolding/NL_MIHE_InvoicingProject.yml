@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: NL_MIHE_InvoicingProject
+  gitServerName: NL_MIHE_GITHUB
+  gitUrl: https://github.com/elpinjo
+  gitUsername: elpinjo
+  gitBranch: main
